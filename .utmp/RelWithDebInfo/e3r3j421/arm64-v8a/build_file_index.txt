@@ -1,0 +1,2 @@
+D:\Nelson Florez\uni-parcial-vr\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Nelson Florez\uni-parcial-vr\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
