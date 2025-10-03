@@ -20407,7 +20407,7 @@ MonoBehaviour:
   _pointableElement: {fileID: 2059512149}
   _boundsCollider: {fileID: 2059512148}
   _colliders:
-  - {fileID: 89194794}
+  - {fileID: 2059512148}
 --- !u!114 &502716561
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40604,7 +40604,7 @@ MonoBehaviour:
   _pointableElement: {fileID: 664676066}
   _boundsCollider: {fileID: 664676065}
   _colliders:
-  - {fileID: 1001947507}
+  - {fileID: 664676065}
 --- !u!114 &1135702958
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42027,7 +42027,7 @@ MonoBehaviour:
   _pointableElement: {fileID: 991333780}
   _boundsCollider: {fileID: 991333779}
   _colliders:
-  - {fileID: 381324504}
+  - {fileID: 991333779}
 --- !u!114 &1163663810
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -70677,7 +70677,7 @@ MonoBehaviour:
   _pointableElement: {fileID: 1790964521}
   _boundsCollider: {fileID: 1790964520}
   _colliders:
-  - {fileID: 669912669}
+  - {fileID: 1790964520}
 --- !u!114 &1572386038
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73838,7 +73838,7 @@ MonoBehaviour:
   _pointableElement: {fileID: 4169731228179985793}
   _boundsCollider: {fileID: 4169731228179985792}
   _colliders:
-  - {fileID: 8331853820579239236}
+  - {fileID: 4169731228179985792}
 --- !u!114 &1649745642
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -79915,7 +79915,7 @@ MonoBehaviour:
   _pointableElement: {fileID: 1622729969}
   _boundsCollider: {fileID: 1622729967}
   _colliders:
-  - {fileID: 1622729967}
+  - {fileID: 92649868}
 --- !u!114 &1832835304
 MonoBehaviour:
   m_ObjectHideFlags: 0
